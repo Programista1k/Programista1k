@@ -24,5 +24,8 @@ Swoją przygodę z programowaniem zacząłęm na początku 2020 roku.
     - Laravel :heavy_check_mark:
 
 - Javascript :x:
-    - React.js :x:
+    - React :x:
+    - Svelte :x:
+    - Three :x:
+    - Node :x:
 
