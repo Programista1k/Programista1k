@@ -14,16 +14,16 @@ Swoją przygodę z programowaniem zacząłęm na początku 2020 roku.
 
 #### :dart: Destination: Fullstack Developer
 
-- HTML :exclamation:
-- CSS :exclamation:
-    - Tailwind CSS :x:
+- HTML :heavy_check_mark:
+- CSS :heavy_check_mark:
+    - Tailwind CSS :heavy_check_mark:
     - Bootstrap :x:
-    - SASS :x:
+    - SASS :heavy_check_mark:
 
 - PHP :heavy_check_mark:
     - Laravel :heavy_check_mark:
 
-- Javascript :x:
+- Javascript :heavy_check_mark:
     - React :x:
     - Svelte :x:
     - Three :x:
