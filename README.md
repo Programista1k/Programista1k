@@ -1,6 +1,6 @@
 ### Cześć!
 
-Nazywam się Maciej, mieszkam i pochodzę z Polski, mam 19 lat.
+Nazywam się Maciej, mieszkam i pochodzę z Polski, mam 20 lat.
 
 Swoją przygodę z programowaniem zacząłęm na początku 2020 roku.
 
@@ -12,12 +12,12 @@ Swoją przygodę z programowaniem zacząłęm na początku 2020 roku.
  
 > :exclamation: - Knowledge refresh required
 
-#### :dart: Destination: Fullstack Developer
+#### :dart: My Current Stack:
 
 - HTML :heavy_check_mark:
 - CSS :heavy_check_mark:
     - Tailwind CSS :heavy_check_mark:
-    - Bootstrap :x:
+    - Bootstrap :heavy_check_mark:
     - SASS :heavy_check_mark:
 
 - PHP :heavy_check_mark:
