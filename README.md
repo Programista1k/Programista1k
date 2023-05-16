@@ -1,6 +1,6 @@
 ### Cześć!
 
-Nazywam się Maciej, mieszkam i pochodzę z Polski, mam 20 lat.
+Nazywam się Maciej, mieszkam i pochodzę z Polski, mam 21 lat.
 
 Swoją przygodę z programowaniem zacząłęm na początku 2020 roku.
 
