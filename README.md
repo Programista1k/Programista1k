@@ -1,6 +1,6 @@
-### Cześć!
+### Hi!
 
-Nazywam się Maciej, mieszkam i pochodzę z Polski, mam 21 lat.
+Maciej, 21 yo, front-end dev 8)
 
 Swoją przygodę z programowaniem zacząłęm na początku 2020 roku.
 
