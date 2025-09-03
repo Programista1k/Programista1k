@@ -2,8 +2,6 @@
 
 Maciej, 23 yo, front-end dev 8)
 
-Swoją przygodę z programowaniem zacząłęm na początku 2020 roku.
-
 ========================================================
 
 >:heavy_check_mark: - Known 
