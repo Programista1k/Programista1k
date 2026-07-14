@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://toniecdn.gube.dev/gubedev.png"  />
+  <img height="150" src="https://gube.dev/logotyp_png.png"  />
 </div>
 
 ###
