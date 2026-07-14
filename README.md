@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Maciej from Poland - 23 years old!<br><br>- 🔭 I’m working as Senior Angular Developer<br>- 📚 I'm currently learning Nest.js<br>- ⚡ In my free time I code apps, learn new things, and spend time with my cats, and cook amazing food!</p>
+<p align="left">I'm Maciej from Poland - 24 years old!<br><br>- 🔭 I’m working as Senior Angular Developer<br>- 📚 I work with NestJs since 12.2025<br>- ⚡ In my free time I code interesting projects, extend my programming knowledge, and spend time with my cats.</p>
 
 ###
 
